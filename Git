@@ -1,1 +1,14 @@
-Hola mundo juas juas
+Git
+
+Es como un tipo de diaro donde se guardan todas las versiones de un codigo o proyecto, para asi poder volver a una antigua version o incluso
+poder modificar el mismo archivo desde otra rama, alterando cosas sin modificar al proyecto principal
+
+
+Algo de historia
+
+Fue creada en 2005 por Linus Torvalds, quien es la misma persona que creo el sistema operativo Linux, es un sistema de control de versiones
+, en otras palabras como lo mencione anterior mente sirve para guardar los cambios de un código.
+
+Esta herramienta es demasiado util para los trabajos en equipo, pues en caso de haber un error no le pasará nada a todo el proyecto y se sabrá quien
+fue el que provoco el error, asi mismo por ejemplo pueden trabajar tanto desarroladores back-end como front-end, sin que uno llegue a dañar algun codigo al otro
+
